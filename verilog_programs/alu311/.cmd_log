@@ -1,0 +1,2 @@
+vhdtdtfi -lang verilog -prj alu311 -o D:/dld_github/alu311/.tfi -lib work D:/dld_github/alu311//alu_311.v -module "" -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 
+vhdtdtfi -lib work D:/dld_github/alu311/alu_311.v -lang verilog -prj alu311 -o .spl -module {} -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
